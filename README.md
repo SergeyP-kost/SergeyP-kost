@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/ialexreis/ialexreis/master/code.gif" width="400"/>
 </div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+novice+developer+from+Russia+🇷🇺)](https://git.io/typing-svg)
+
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
