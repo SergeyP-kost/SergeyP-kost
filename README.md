@@ -1,11 +1,12 @@
 [![Yandex](https://img.shields.io/badge/-sergeyp.sp@yandex.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:nefedovds@ya.ru) 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/sanatolp)
-![Codewars](https://www.codewars.com/users/Sergeyppp/badges/micro)
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 <h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, I'm Sergey</h1>
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/ialexreis/ialexreis/master/code.gif" width="400"/>
 </div>
+
+![Codewars](https://www.codewars.com/users/Sergeyppp/badges/micro)
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> </a>
