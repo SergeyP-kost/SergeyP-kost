@@ -11,6 +11,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://www.rust-lang.org/ru/" target="_blank" rel="noreferrer"> <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="rust" width="40" height="40"/> </a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://noviello.it/content/images/2020/05/php.jpg" alt="php" width="40" height="40"/> </a>
 <a href="https://1c.ru/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/1C_Company_logo.svg/980px-1C_Company_logo.svg.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
